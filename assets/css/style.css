@@ -1,0 +1,23 @@
+.jumbotron, .card, h3, a{
+    text-align: center;
+    background: rgba(0, 0, 0, 0.534);
+    color: gold;
+ 
+}
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
+.background{
+   background-image: url(../image/psychic.jpg);
+   background-repeat: no-repeat;
+   background-size: 100%;
+}
+body{
+    background: rgb(8, 1, 48);
+}
+h3, footer{
+    text-align: center;
+    background: rgba(0, 0, 0, 0.534);
+}

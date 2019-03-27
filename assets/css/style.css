@@ -21,3 +21,6 @@ h3, footer{
     text-align: center;
     background: rgba(0, 0, 0, 0.534);
 }
+.list-group-item{
+    background-color:rgba(99, 140, 153, 0.425);
+}
